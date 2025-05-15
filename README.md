@@ -3,9 +3,9 @@ This is a place we document Scilligence APIs used to process all molecule entiti
 - MolEngine is wroten in .NET, but the core part is cross platform supporting Windows, Mac and Linux using Mono and Microsoft .NET Core.
 - JSDraw is wroten in Javascript for front-end use in browsers.
 
-----------
+
 Read all examples: https://github.com/scilligence/molengine.python/issues
-----------
+
 
 It requires to have a license to run.  We offer free developer licenses for our customers, partners and individual developers.  Please contact us for free licenses: https://scilligence.com/contact-page/
 
